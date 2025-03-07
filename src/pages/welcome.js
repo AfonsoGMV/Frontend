@@ -104,6 +104,20 @@ function WouldYouRather() {
     ["Always be 10 minutes late", "Always be 20 minutes early"],
     ["Have no internet for a month", "Have no snacks for a year"],
     ["Only eat pizza forever", "Never eat pizza again"],
+    ["Always have to sing instead of talk 🎤", "Dance instead of walk? 💃"],
+    ["Have spaghetti for hair 🍝" ,"Marshmallows for fingers? 🍡"],
+    ["Always sneeze glitter ✨", "Always fart confetti? 🎊"],
+    ["Be able to speak to animals 🦜","Read minds? 🧠"],
+    ["Have a rewind button ⏪"  ,"A pause button ⏸ for your life?"],
+    ["Never use a phone again 📵" , "Never watch TV/movies again? 📺"],
+    ["Live without music 🎵" , "Live without books? 📖"],
+    ["Have no elbows 🚫💪" , "No knees? 🚫🦵"],
+    ["Be rich but bored 💰😐" , "Poor but always entertained? 😆"],
+    ["Have unlimited ice cream 🍦 but no cake 🎂", "Unlimited cake but no ice cream?"],
+    ["Drink only water forever 💧", "Only soda forever? 🥤"],
+    ["Fly but only 2 feet off the ground ✈️","Be invisible but only for 10 seconds?"],
+    ["Be super strong 💪 but slow 🐢 ", "Super fast ⚡ but weak?"],
+    ["Teleport anywhere 🌍 but only once per week" , "Run at 100mph but never stop running?"]
   ];
 
   const generateQuestion = () => {
