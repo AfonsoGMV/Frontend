@@ -4,7 +4,6 @@ import { toast } from "react-toastify"; // Biblioteca para notificações
 import "react-toastify/dist/ReactToastify.css"; // Estilos do Toastify
 import useMessages from "../hooks/useMessages"; // Hook para mensagens traduzidas
 import axiosInstance from "../lib/axiosInstance"; // 🚀 Usa axiosInstance para chamadas API
-import axiosInstance from "../utils/axiosInstance";//MAYBE????
 
 export default function WelcomePage() {
   const messages = useMessages(); // Hook para mensagens traduzidas
